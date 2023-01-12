@@ -71081,7 +71081,7 @@ i=J.aI(i)
 d0=d0.b_(1)[5].b
 d0===$&&A.b()
 h=t.z
-n.c=A.ak(["id",o,"name",l,"level",k,"docId",j,"image",i,"displayOrder",A.cu(J.aI(d0),c3),"lessonIdList",[]],h,h)
+n.c=A.ak(["id",o,"name",l,"level",k,"docId",j,"image",i,"displayOrder",A.cu(J.aI(d0),c3),"lessonIdList",[],"isActive",!0],h,h)
 for(d0=n.d,g=1;g<r.gqB(r).length;++g){o=r.b_(g)[0].b
 o===$&&A.b()
 o=J.aI(o)
